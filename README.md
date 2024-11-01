@@ -1,15 +1,3 @@
----
-title: AQI Pred
-emoji: 📈
-colorFrom: purple
-colorTo: pink
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Air Quality Prediction Using Regression Techniques
----
 # Air Quality Prediction Using Regression Techniques
 
 This project implements a comparative analysis of different regression techniques for predicting air quality in smart cities, based on the research paper "Comparative Analysis Study for Air Quality Prediction in Smart Cities Using Regression Techniques" by Al-Eidi et al.
