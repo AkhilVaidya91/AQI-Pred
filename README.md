@@ -17,7 +17,7 @@ This project implements a comparative analysis of different regression technique
 ## Overview
 
 The project uses machine learning regression models to predict Air Quality Index (AQI) values using various air pollutant measurements. Three regression techniques are compared:
-- Random-Forest Regression
+- Random Forest Regression
 - Linear Regression
 - Decision Tree Regression
 
