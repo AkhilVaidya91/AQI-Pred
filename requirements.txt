@@ -3,3 +3,6 @@ numpy
 panadas
 matplotlib
 seaborn
+scikit-learn
+imbalanced-learn
+smote-variants
